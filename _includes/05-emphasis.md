@@ -1,1 +1,17 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Bold Text**
+__Bold Text__
+
+*Italic Text*
+_Italic Text_
+
+_combining __bold__ with italic_ 
+*combining **bold** with italic*
+
+```This is a code ```
+
+`this is a code `
+
+```Javascript
+console.log("hello")
+```
+ this is javascript code block
