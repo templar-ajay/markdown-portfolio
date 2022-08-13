@@ -1,4 +1,4 @@
-# This is my list of Favourite Things
+# This is my unordered list of Favourite Things
 
 - Football 
 - Trekking 
